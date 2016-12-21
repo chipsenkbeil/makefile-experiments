@@ -3,7 +3,7 @@
 # Author: Robert "Chip" Senkbeil
 #
 
-.PHONY: _dev _prod _run help % _%
+.PHONY: _dev _prod _run __no_args % _%
 .DEFAULT: %
 
 #
